@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-[![Email](https://img.shields.io/badge/Email-devansh22w@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devansh22w@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-singhaldevansh22@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:singhaldevansh22@gmail.com)  
 ![LeetCode Solved](https://img.shields.io/badge/LeetCode-1000+_Problems-orange?style=for-the-badge&logo=leetcode)
 
 ---
