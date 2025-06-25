@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshsinghal22)  
-[![LeetCode user devanshs-22](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdevanshs-22&logo=leetcode&logoColor=yellow)](https://leetcode.com/devansh_2k5/)
+[![LeetCode user devanshs-22](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDevansh_2k5&logo=leetcode&logoColor=yellow)](https://leetcode.com/Devansh_2k5/)
 
 ---
 
